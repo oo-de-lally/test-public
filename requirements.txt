@@ -99,3 +99,5 @@ pypandoc
 
 # Pypi uploads
 twine
+
+pip>=19.2 # not directly required, pinned by Snyk to avoid a vulnerability
